@@ -2,6 +2,7 @@
 
 ## Overview
 A simple, console-based UI Tester written in C# and driven by Selenium &amp; ChromeDriver.
+![Screenshot](screenshot.PNG)
 
 ## Usage
 1. Clone the project into the directory of your choice.
